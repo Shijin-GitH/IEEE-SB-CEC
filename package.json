@@ -1,7 +1,7 @@
 {
-  "name": "iasweb",
+  "name": "ieeesbcec",
   "version": "0.1.0",
-  "homepage": "http://iasweb2.0.s3-website-us-west-2.amazonaws.com/",
+  "homepage": "https://github.com/Shijin-GitH/IEEE-SB-CEC",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

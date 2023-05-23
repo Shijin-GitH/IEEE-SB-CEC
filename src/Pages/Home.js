@@ -15,9 +15,6 @@ Aos.init();
 
   return (
     <div className='home loaded'>
-      <div class="loader-wrapper">
-        <div class="loader"></div>
-      </div>
       <div className="homebody">
       </div>
       <div  className='container-fluid'>
