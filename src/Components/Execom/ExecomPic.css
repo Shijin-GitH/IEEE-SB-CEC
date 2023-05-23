@@ -1,0 +1,41 @@
+.execom-tile{
+  display: flex;
+  height: 400px;
+
+}
+.execom-pic{
+  width: 220px;
+  height: 220px;
+  margin-left: 20px;
+  z-index: 2;
+}
+.execom-pic img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 300px 300px 300px 0px;
+}
+.execom-name-box{
+  display: flex;
+  margin-top: 180px;
+  margin-left: -90px;
+  position: absolute;
+  width: 220px;
+  height: 220px;
+  border: 2px solid #ffffff8a;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+  
+}
+.execom-name-box p{  
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+}
+.execom-name-box h3{  
+  margin : 0;
+  font-size: 17px;
+  font-weight: 500;
+}

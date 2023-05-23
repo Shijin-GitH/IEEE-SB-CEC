@@ -1,0 +1,16 @@
+.sqrs{
+    position: relative;
+    height: 100%;
+    width: 45px;
+}
+.sqrs div{
+    border: 1px solid #ffffff;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+}
+
+.lower-sqr{
+    margin-top: 15px;
+    margin-left: 15px;
+}

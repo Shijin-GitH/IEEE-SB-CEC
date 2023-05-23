@@ -1,0 +1,37 @@
+.gallery{
+    padding: 35px 5% 1% 5%;
+}
+.carousel-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-part .carousel{
+    height: 50%;
+    width: 70%;
+}
+.carousel .slide .legend {
+    background: transparent;
+}
+.carousel .slider-wrapper{
+    aspect-ratio: 16/9;
+}
+.carousel .thumb{
+    aspect-ratio: 16/9;
+}
+
+.thumb {
+    visibility: hidden;
+}
+
+@media screen and (max-width: 768px){
+    .carousel-part .carousel{
+        width: 100%;
+    }
+    .carousel .control-dots{
+        bottom: -7px;
+    }
+    .carousel .slide .legend {
+        bottom: 0;
+    }
+}

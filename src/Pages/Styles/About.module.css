@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+.body{
+padding: 90px 10% 0% 10%;
+height: 130vh;
+width: 100%;
+position: relative;
+background-color: rgb(241, 244, 255);
+background-image: url("https://ceconline.edu/wp-content/uploads/2022/07/1-IMG-20200819-WA0045.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.heading{
+    font-family: Oswald;
+    font-size: 80px;
+}
+.content{
+    padding-top: 30px;
+    font-size: 18px;
+    min-height: 350px;
+    max-width: 800px;
+    padding: 5%;
+
+}
+.box{
+box-sizing: border-box;
+position: absolute;
+width: 800.08px;
+height: 570px;
+left: 30%;
+top: 22%;
+border: 1.8138px solid black;
+border-left:none ;
+}
+.bottom{
+    float:right;
+    min-width: 200px;
+    max-height: 300px;
+}
+
+@media only screen and (max-width:1200px) {
+    .bottom{
+        display: none;
+    }
+    .box{
+        display: none;
+    }
+    .content{
+        border: 1.8138px solid #ffffff80;
+    }
+    .content{
+        font-size: smaller;
+    }
+}

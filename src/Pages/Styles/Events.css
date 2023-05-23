@@ -1,0 +1,45 @@
+.events{
+    padding: 35px 5% 5% 5%;
+    color: black;
+}
+
+html, .main-body {
+    background-color: rgb(255, 255, 255);
+}
+
+.event-detail-header{
+    padding: 35px 0% 2% 5%;
+}
+
+.event-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.event-img img{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin-top: 20px;
+    max-width: 700px;
+    padding: 5%;
+}
+
+.event-name-box {
+    color: black;
+    border: 1px solid black;
+}
+
+@media only screen and (max-width:991px) {
+    .event-img img{
+        height: 300px;
+        width: 300px;
+    }
+    
+}

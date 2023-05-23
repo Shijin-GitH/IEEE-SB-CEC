@@ -1,0 +1,39 @@
+{ "event":[
+    {   "id":6,
+       "title":"COMPUTING EDGE",
+        "image":"https://backend.cecieee.org/storage/events/January2022/BX0BEm6PrwujfFyAU4e4.jpeg"
+    },
+   
+      {"id":5,
+     "title":"SPECTRA DECEMBER EDITION",
+     "image":"https://backend.cecieee.org/storage/events/January2022/Wq5EbM7dhu00aorLbmg4.jpeg"
+    },
+
+      { "id":4, 
+      "title":"ARGENT 2021",
+      "image":"https://backend.cecieee.org/storage/events/January2022/hK88Z6a04dvKHLm42Pjp.jpeg"
+    },
+    {"id":3,   
+     "title":"FORUM 2021",
+    "image":"https://backend.cecieee.org/storage/events/January2022/kr9NpqzUCG3M5PNKNu4P.jpeg"
+    },
+
+    {   
+    "id":2,
+    "title":"EMERGENCE",
+    "image":"https://backend.cecieee.org/storage/events/December2021/PiL8jfWl4BEo4nmOPbGZ.jpeg"
+    },
+
+    {   
+    "id":1,
+    "title":"QUIZ ON COMPUTING EDGE",
+    "image":"https://backend.cecieee.org/storage/events/November2021/Xgud0HYXjPLE0re1bj4m.jpeg"
+    },
+   {    "id":0,  
+    "title":"SPECTRA SEPTEMBER EDITION",
+    "image":"https://backend.cecieee.org/storage/events/September2021/1Y1Js1e6OksnfEc9Tzwa.jpeg"
+    }
+
+    ]
+    
+}

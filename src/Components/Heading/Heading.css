@@ -1,0 +1,15 @@
+.heading-all{
+    max-width:450px;
+    font-Family:Oswald;
+    font-size:80px;
+    position:relative;
+    color: black;
+}
+
+
+
+@media only screen and (max-width:650px){
+    .heading-all{
+        font-size: 40px;
+    }
+}
