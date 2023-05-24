@@ -55,7 +55,7 @@ Aos.init();
          <div className='heading-new'>
            <h2>Our IEEE Family</h2>
          </div>
-         <div className='m-5 chapter-logo'>
+         <div className='chapter-logo'>
           <div className='col-lg-15 chapter-row' data-aos="fade-up">
             <img src='https://cecieee.org/images/society/cs-logo.png' className='nav-link' alt=''></img>
             <img src='https://cecieee.org/images/society/ras-logo.png' className='nav-link' alt=''></img>

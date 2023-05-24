@@ -128,9 +128,9 @@ body {
 }
 
 .chapter-row {
-    width: 100vw;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .em-pg h5 {
@@ -151,6 +151,11 @@ body {
     justify-content: space-around;
     align-items: center;
     font-size: 20px;
+}
+
+.chapter-logo {
+    width: 100vw;
+    margin-bottom: 50px;
 }
 
 .footer{
