@@ -30,6 +30,7 @@ useEffect(()=>{
             hash="L00000fQfQfQfQfQfQfQfQfQfQfQ"
             width="100%"
             height="100%"
+            loading="lazy"
             resolutionX={32}
             resolutionY={32}
             punch={1}
