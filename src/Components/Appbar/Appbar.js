@@ -6,7 +6,7 @@ import logo1 from "../../../src/assets/images/ieee_logo.png";
 function Appbar() {
   return (
     <div className="container-fluid">
-    <nav className="navbar navbar-expand-lg navbar-dark mx-1 sticky-top">
+    <nav className="navbar navbar-expand-lg navbar-dark mr-2 sticky-top">
       <div className="container-fluid">
         <a className="navbar-brand text-success font-weight-bold" href="/">
           <img src={logo1} alt="" />

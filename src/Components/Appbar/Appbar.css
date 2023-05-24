@@ -34,6 +34,7 @@
   }
   .navbar{
     backdrop-filter: blur(10px);
+    overflow-x: hidden;
   }
   .navbar.sticky-top {
     position: fixed;
