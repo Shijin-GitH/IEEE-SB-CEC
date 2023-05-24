@@ -37,14 +37,7 @@
     margin-left: 10px;
     cursor: pointer;
 }
-.botline{
-    cursor: pointer;
-    margin-left: 10px;
-    border-left: 3px solid;
-    padding-left: 10px;
-    color: rgba(245, 245, 245, 0.539);
 
-}
 
 @media only screen and (max-width: 650px){
     .heading-all {

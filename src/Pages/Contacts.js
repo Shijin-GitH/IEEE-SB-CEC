@@ -37,11 +37,7 @@ function Contacts() {
       <Sidetitle title="CONTACT US"/>
       
         <div className='bottom'>
-        <div className='bot'><BsInstagram/></div>
-        <div className='bot'><BsFacebook/></div> 
-        <div className='bot'><FaLinkedinIn/></div> 
-        <div className='bot'><BsGlobe2/></div>  
-        <div className='botline'>@Ieeesbcec</div>
+        
         </div>
       </div>
   
