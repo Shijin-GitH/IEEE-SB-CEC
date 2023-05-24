@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 .contact-main{
     padding: 45px 0 2% 0;
    
