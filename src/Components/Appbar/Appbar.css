@@ -43,7 +43,7 @@
   }
   .navbar-toggler{
     margin-right: 3%;
-    background-color: grey;
+    background-color: rgba(128, 128, 128, 0.45);
   }
   .navbar-toggler:focus {
     box-shadow: 0 0 0 0 ;
