@@ -1,6 +1,6 @@
 import React ,{useState, useEffect}from 'react'
 import "./ExecomPic.css"
-import {blurhash} from 'react-blurhash';
+import {Blurhash} from 'react-blurhash';
 
 
 
@@ -26,11 +26,10 @@ useEffect(()=>{
 
               <>
               {!imageLoaded && (
-            <blurhash
-            hash="L00000fQfQfQfQfQfQfQfQfQfQfQ"
+            <Blurhash
+            hash="PHH2Zcx[00xtH=Rjkqj=00ae_Nae.8a#Rjt7.AsqrWozNHs:aKWB"
             width="100%"
             height="100%"
-            loading="lazy"
             resolutionX={32}
             resolutionY={32}
             punch={1}
