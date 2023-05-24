@@ -138,23 +138,6 @@ body {
     margin-bottom: 20px;
 }
 
-.top-decor {
-    height: 40px;
-    font-family: 'Rajdhani', sans-serif;
-    width: 100vw;
-    border: 1px solid black;
-    color: black;
-    border-left: none;
-    border-right: none;
-    margin-bottom: 70px;
-    margin-top: 100px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    font-size: 20px;
-    margin-left: 0;
-}
-
 .bot-decor {
     height: 40px;
     font-family: 'Rajdhani', sans-serif;
@@ -187,7 +170,7 @@ body {
     .m-v-box div{
         width: 50%;
         height: 100%;
-        background-color: rgb(241, 244, 255);;
+        background-color: rgb(255, 255, 255);
     }
     .m-v-box p{
         font-size: small ;
@@ -199,12 +182,8 @@ body {
 }
 
 @media only screen and (max-width:600px) {
-    .bot-decor, .top-decor {
+    .bot-decor {
         font-size: 18px;
-    }
-
-    .carousel {
-        margin-bottom: 50px;
     }
 }
 
@@ -222,22 +201,10 @@ body {
     .heading1{
         margin: 10% 0 10% 0;
     }
-    .bot-decor, .top-decor {
+    .bot-decor {
         font-size: 15px;
     }
     .em-3 {
         display: none;
-    }
-}
-
-@media screen and (max-width: 768px){
-    .carousel-part .carousel{
-        width: 100%;
-    }
-    .carousel .control-dots{
-        bottom: -7px;
-    }
-    .carousel .slide .legend {
-        bottom: 0;
     }
 }
